@@ -1,0 +1,14 @@
+#+TITLE: Sudo Woodo
+#+AUTHOR: Bassam Saeed
+#+EMAIL: bassam.saeed@gmail.com
+
+[[file:assets/sudowoodo.png]]
+
+* Run
+  #+begin_src bash
+    cargo run
+  #+end_src
+* Build
+  #+begin_src bash
+    cargo build
+  #+end_src
